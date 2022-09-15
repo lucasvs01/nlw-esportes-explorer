@@ -4,7 +4,7 @@
 
 Projeto construido do evento Next Level Week da Rocketseat.
 
-![👆 Clique aqui para acessar](https://lucasvs01.github.io/nlw-esportes-explorer/)
+[👆 Clique aqui para acessar](https://lucasvs01.github.io/nlw-esportes-explorer/)
 
 ![preview](./.github/preview.png)
 
